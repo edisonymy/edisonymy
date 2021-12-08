@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/edison-yi/](https://www.linkedin.com/in/edison-yi/)
 
 <h3 align="left">Connect with me:</h3>
