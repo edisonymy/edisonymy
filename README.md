@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting)
 - 📄 Know about my experiences [https://www.linkedin.com/in/edison-yi/](https://www.linkedin.com/in/edison-yi/)
+- I like to compete on Kaggle, find my Kaggle profile [here](https://www.kaggle.com/mingyangyi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
